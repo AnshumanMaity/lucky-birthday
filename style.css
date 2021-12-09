@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+body{
+    background-color: #CD5C5C;
+    color: black;
+}
+
+.container {
+    width: 40%;
+    margin: auto;
+}
+
+input,label {
+    display: block;
+    text-align: center;
+}
+input {
+    margin-bottom: 0.5rem;
+    width:100%;
+}
+
+#checkButton{
+    margin-top: 1rem;
+}
+
+#output{
+    margin-top: 1rem;
+    width:100%;
+}
